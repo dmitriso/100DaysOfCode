@@ -1,0 +1,80 @@
+/* TEXT ANIMATION COMPONENT STYLING */
+html, body {
+  margin: 0;
+  padding: 0;
+  cursor: none;
+}
+
+.nav-wrapper {
+  width: 100%;
+  height: 100vh;
+  background: #000000;
+}
+
+nav {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+}
+
+.hover-this {
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+  cursor: none;
+}
+
+span {
+  display: inline-block;
+  font-family: 'Times New Roman', times, serif;
+  font-weight: 300;
+  color: #fff;
+  font-size: 36px;
+  text-transform: uppercase;
+  pointer-events: none;
+  -webkit-transition: -webkit-transform 0.1s linear;
+  transition: -webkit-transform 0.1s linear;
+  transition: transform 0.1s linear;
+  transition: transform 0.1s linear, -webkit-transform 0.1s linear;
+}
+
+.cursor {
+  pointer-events: none;
+  position: fixed;
+  padding: 0.3rem;
+  background-color: #fff;
+  border-radius: 50%;
+  mix-blend-mode: difference;
+  -webkit-transition: -webkit-transform 0.3s ease;
+  transition: -webkit-transform 0.3s ease;
+  transition: transform 0.3s ease;
+  transition: transform 0.3s ease, -webkit-transform 0.3s ease;
+}
+
+.hover-this:hover ~ .cursor {
+  -webkit-transform: translate(-50%, -50%) scale(8);
+          transform: translate(-50%, -50%) scale(8);
+}
+
+@media (min-width: 900px) {
+  nav {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
+  }
+}
+
+@media (max-width: 900px) {
+  nav {
+    top: 30%;
+  }
+  .hover-this {
+    width: 100%;
+    padding: 20px 0;
+    display: inline-block;
+  }
+}
+/*# sourceMappingURL=main.css.map */
