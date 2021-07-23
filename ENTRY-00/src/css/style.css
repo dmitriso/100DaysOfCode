@@ -3,7 +3,7 @@
     margin: 0;
     padding: 0 ;
     cursor: none;
-    cursor: url('../images/archon(small)-5.svg'), auto;
+    cursor: url('../../images/archon(small)-5.svg'), auto;
 }
 
 .nav-wrapper {
