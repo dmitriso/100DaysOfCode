@@ -1,3 +1,6 @@
 [submodule "ENTRY-03"]
 	path = ENTRY-03
 	url = https://github.com/dmitriso/ENTRY-03.git
+[submodule "ENTRY-04-Reactive-3D-Portfolio"]
+	path = ENTRY-04-Reactive-3D-Portfolio
+	url = https://github.com/dmitriso/ENTRY-04-Reactive-3D-Portfolio.git
