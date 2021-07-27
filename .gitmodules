@@ -4,3 +4,6 @@
 [submodule "ENTRY-04-Reactive-3D-Portfolio"]
 	path = ENTRY-04-Reactive-3D-Portfolio
 	url = https://github.com/dmitriso/ENTRY-04-Reactive-3D-Portfolio.git
+[submodule "ENTRY-05-Reactive-3D-Landing-Page-Design"]
+	path = ENTRY-05-Reactive-3D-Landing-Page-Design
+	url = https://github.com/dmitriso/ENTRY-05-Reactive-3D-Landing-Page-Design.git
