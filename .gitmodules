@@ -10,3 +10,6 @@
 [submodule "ENTRY-06-Reactive-Portfolio-Design"]
 	path = ENTRY-06-Reactive-Portfolio-Design
 	url = https://github.com/dmitriso/ENTRY-06-Reactive-Portfolio-Design.git
+[submodule "ENTRY-07-Interactive-Hero-Welcome-And-Gallery"]
+	path = ENTRY-07-Interactive-Hero-Welcome-And-Gallery
+	url = https://github.com/dmitriso/ENTRY-07-Interactive-Hero-Welcome-And-Gallery.git
