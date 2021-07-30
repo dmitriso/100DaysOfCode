@@ -13,3 +13,6 @@
 [submodule "ENTRY-07-Interactive-Hero-Welcome-And-Gallery"]
 	path = ENTRY-07-Interactive-Hero-Welcome-And-Gallery
 	url = https://github.com/dmitriso/ENTRY-07-Interactive-Hero-Welcome-And-Gallery.git
+[submodule "ENTRY-08-3D-Generative-Wave-Art"]
+	path = ENTRY-08-3D-Generative-Wave-Art
+	url = https://github.com/dmitriso/ENTRY-08-3D-Generative-Wave-Art.git
