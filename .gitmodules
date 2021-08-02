@@ -16,3 +16,6 @@
 [submodule "ENTRY-08-3D-Generative-Wave-Art"]
 	path = ENTRY-08-3D-Generative-Wave-Art
 	url = https://github.com/dmitriso/ENTRY-08-3D-Generative-Wave-Art.git
+[submodule "ENTRY-09-ThreeJS-3D-Skybox-Scene"]
+	path = ENTRY-09-ThreeJS-3D-Skybox-Scene
+	url = https://github.com/dmitriso/ENTRY-09-ThreeJS-3D-Skybox-Scene.git
