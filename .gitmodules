@@ -19,3 +19,6 @@
 [submodule "ENTRY-09-ThreeJS-3D-Skybox-Scene"]
 	path = ENTRY-09-ThreeJS-3D-Skybox-Scene
 	url = https://github.com/dmitriso/ENTRY-09-ThreeJS-3D-Skybox-Scene.git
+[submodule "ENTRY-10-React-ThreeJS-Template"]
+	path = ENTRY-10-React-ThreeJS-Template
+	url = https://github.com/dmitriso/ENTRY-10-React-ThreeJS-Template.git
